@@ -1,4 +1,24 @@
 # Flipkart Customer Satisfaction Score Prediction
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-Programming%20Language-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+➡️
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+➡️
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+➡️
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge)
+➡️
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge)
+➡️
+![NLTK](https://img.shields.io/badge/NLTK-Natural%20Language%20Processing-154F5B?style=for-the-badge)
+➡️
+![VADER Sentiment](https://img.shields.io/badge/VADER-Sentiment%20Analysis-orange?style=for-the-badge)
+➡️
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+➡️
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-EC6B23?style=for-the-badge)
+
 
 ## Project Overview
 This project predicts **Customer Satisfaction (CSAT) scores (1–5)** using customer support ticket data from Flipkart. The objective is to analyze customer service interactions and identify factors that influence satisfaction levels.
