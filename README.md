@@ -1,3 +1,94 @@
+# Flipkart Customer Satisfaction Score Prediction
+
+## Project Overview
+This project predicts **Customer Satisfaction (CSAT) scores (1–5)** using customer support ticket data from Flipkart. The objective is to analyze customer service interactions and identify factors that influence satisfaction levels.
+
+The project involves **data preprocessing, exploratory data analysis, sentiment analysis, feature engineering, and machine learning models** to predict CSAT scores.
+
+---
+
+## Problem Statement
+Customer satisfaction plays a crucial role in customer retention for e-commerce companies. By analyzing support ticket data such as **response time, resolution time, support channel, and customer remarks**, this project predicts CSAT scores and helps identify **customers likely to be dissatisfied**.
+
+---
+
+## Key Features
+- Data Cleaning and Missing Value Handling
+- Exploratory Data Analysis (EDA)
+- Feature Engineering (Response Time & Resolution Time)
+- Sentiment Analysis using **VADER**
+- Machine Learning Models for CSAT Prediction
+- Model Evaluation and Comparison
+
+---
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- NLTK (VADER Sentiment Analysis)
+- Scikit-learn
+- XGBoost
+
+---
+
+## Machine Learning Models
+The following models were implemented and evaluated:
+
+- Decision Tree
+- Random Forest
+- XGBoost (Best Performing Model)
+
+Evaluation Metrics Used:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Cross Validation
+
+---
+
+## Project Workflow
+1. Data Collection
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Sentiment Analysis
+6. Model Training
+7. Model Evaluation
+8. Business Insights
+
+---
+
+## Business Impact
+- Helps identify **dissatisfied customers early**
+- Enables **better support agent allocation**
+- Improves **response and resolution strategies**
+- Supports **data-driven customer service decisions**
+
+---
+
+## Dataset
+The dataset contains customer support ticket information including:
+
+- Ticket ID
+- Customer Remarks
+- Issue Category
+- Support Channel
+- Agent Name
+- Response Time
+- Resolution Time
+- CSAT Score
+
+---
+
+## Author
+**Saikat Mondal**
+
+GitHub Repository:  
+https://github.com/saikatM333/FlipKart_Customer_Satisfction_Score_Prediction
 # Correlation Relation
 <img width="1103" height="1015" alt="image" src="https://github.com/user-attachments/assets/04f5aebf-d404-4de6-a7cd-ee5c54e990dd" />
 
